@@ -1,6 +1,6 @@
 #include<stdio.h>
 int getConstant() {
-	return 2;
+	return 3;
 }
 void vulnerable() {
 	unsigned left = 0xffffffff;
